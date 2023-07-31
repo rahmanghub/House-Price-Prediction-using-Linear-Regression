@@ -2,7 +2,7 @@
   This project aims to build a machine learning model to predict house prices using the linear regression algorithm. We will be using a dataset containing various features of houses along with their corresponding prices. The linear regression model will be trained on this data to learn the relationship between the features and house prices, and then used to make predictions on new data.
 
 # Dataset
-The dataset consists of the following features:
+The dataset used in this project contains the following features:
 
 Avg. Area Income
 Avg. Area House Age
@@ -10,6 +10,8 @@ Avg. Area Number of Rooms
 Avg. Area Number of Bedrooms
 Area Population
 Price (target variable)
+
+This dataset consists of various features of houses, such as average area income, house age, number of rooms, number of bedrooms, and area population, along with their corresponding house prices. We will use this data to build a machine learning model for house price prediction using the linear regression algorithm. The linear regression model will be trained on this data to learn the relationship between the features and house prices, and then used to make predictions on new data.
 
 # Libraries Used
 We will be using the following Python libraries for this project:
